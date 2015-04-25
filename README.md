@@ -46,6 +46,41 @@ Deutsches Buch und Schriftmuseum
 * Rohstoff einer Stadtvision
 * ältestes Buchmuseum der Welt
 
+* Buchbahnhof
+* Boomendes Leipzig 1913
+* Merkur und die Bücher
+* Wachstum, Buchhype, 1822, 1913 (Bahnhof, VSD, DNB)
+* 982 Verlage und Buchhandlungen
+* 300 Druckereien und Setzereien
+* 173 Buchbindereien
+* 36 Maschinenbaufirmen für das grafischen Gewerbe
+* MS Access, Leipzig Addressbuch
+* Stecknadelarbeit
+* 2000 Firmenadressen
+* Karten als Medium
+* Strasse, Branchen, Stadtteile, Katasterdaten
+* Hausnummer, Katasternummer
+* Städtisches Vermessungsamt, verlinkbar
+
+Anwendungen
+
+* Webbasiertes Infosystem, Hypezig
+* Schlüssellochperspektive
+* Karte, GND
+* Webformular für Eingabe
+* 5000 Mediengeschichte
+* Decoding Leipzig
+
+Vision
+
+* Medienumbruch
+
+Diskussion
+
+* Historischer Stadtführer
+* Adresse, Link auf Körperschaften, mehr Informationen
+
+
 Filminstitut
 ------------
 
@@ -205,6 +240,25 @@ Stadtarchiv Speyer
 * Tags auf der Rückseite der Photos
 * Weltkrieg in Bildern
 
+* ehrenamtliches Projekt
+* nationalsozialistischer Archivar, Karl Lutz
+* keine Schlachtszenen
+* Dörfer, Ostfeldzug
+* Selfie, Lettland
+* Entdeckung bei Recherche zu Imagefilm, Diasäuberung
+* wenig Propaganda
+* Blog, Archivar, Weltkrieg
+* www.stadtarchiv.speyer.de
+* 5000 Fotos auf Flickr
+* Historypin
+* Social Media
+* DDB, flickr
+
+Anwendungen
+
+* Itinerar
+
+
 Haus der Geschichte
 -------------------
 
@@ -228,6 +282,25 @@ Digital Humanities
 * OCR, Griechisch, Latein
 * Automatische Lernumgebungen, Annotationen, Übersetzungen
 * auch Bilddateien
+
+* Open Philology Project
+* OCR, für altgriechisch und lateinisch verbessern
+* 40M Wörter
+* Perseus, 20M Wörter
+* Korpus: 60M
+* automatische Lernaufgaben filtern
+* Prüfung auf Gemeinfreiheit
+* Netzwerk von Einrichtungen, Perseus, Open Philology, EpiDoc XML
+* github.com/OpenGreekAndLatin
+* perseus.tufts.edu
+* perseids.org
+* www.dh.uni-leipzig.de
+
+Ziele
+
+* Offene digitale Neueditionen von Texten klassischer Philologien
+* Aufarbeitung der Text und Editionsgeschichte
+* NER und Pronomen
 
 Bauhaus Weimar
 --------------
