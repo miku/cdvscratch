@@ -318,6 +318,14 @@ UB Leipzig
 * XML
 * GND
 
+* Adlige, Beamte, Bürger, Theologen
+* Sachsen, Leipzig, Internation, Gutenberg, Jefferson, Adam Weishaupt
+* DFG-Digitalisierung
+* Bildarchiv, Host
+* CC-0, Metadaten, XML, CSV, LIDO-XML
+* offenedaten.de
+* Abgebildete Personen, Künstler, Orte der Herstellung
+
 Veikkos
 -------
 
