@@ -1,7 +1,7 @@
 README
 ======
 
-Coding da Vinci scratchpad.
+[Coding da Vinci](http://codingdavinci.de/) scratchpad.
 
 * 33 data providers
 * DDB, OKFD, WMD, Servicestelle Digitalisierung
